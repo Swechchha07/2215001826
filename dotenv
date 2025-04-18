@@ -1,1 +1,7 @@
-
+EMAIL=your_email@gla.ac.in
+NAME=Your Name
+ROLLNO=YourRollNumber
+ACCESS_CODE=YourAccessCode
+CLIENT_ID=9
+CLIENT_SECRET=yourClientSecret
+AUTH_URL=http://20.244.56.144/evaluation-service/auth
